@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94660db8-eb12-489f-b912-e8a09b58264a": {
+      "ProjectGuid": "94660db8-eb12-489f-b912-e8a09b58264a",
+      "DisplayName": "ShopProject",
+      "ColorIndex": 0
+    },
+    "f737fbf4-48fd-4982-9429-958ed8649571": {
+      "ProjectGuid": "f737fbf4-48fd-4982-9429-958ed8649571",
+      "DisplayName": "Shop_ORM",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

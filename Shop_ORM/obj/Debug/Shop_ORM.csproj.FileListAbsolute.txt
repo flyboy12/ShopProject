@@ -1,0 +1,12 @@
+C:\Users\blueh\Desktop\ShopProject\Shop_ORM\bin\Debug\Shop_ORM.dll
+C:\Users\blueh\Desktop\ShopProject\Shop_ORM\bin\Debug\Shop_ORM.pdb
+C:\Users\blueh\Desktop\ShopProject\Shop_ORM\obj\Debug\Shop_ORM.csproj.CoreCompileInputs.cache
+C:\Users\blueh\Desktop\ShopProject\Shop_ORM\obj\Debug\Shop_ORM.dll
+C:\Users\blueh\Desktop\ShopProject\Shop_ORM\obj\Debug\Shop_ORM.pdb
+C:\Users\Hakan\Desktop\Examples\ShopProject\Shop_ORM\bin\Debug\Shop_ORM.dll
+C:\Users\Hakan\Desktop\Examples\ShopProject\Shop_ORM\bin\Debug\Shop_ORM.pdb
+C:\Users\Hakan\Desktop\Examples\ShopProject\Shop_ORM\obj\Debug\Shop_ORM.csproj.AssemblyReference.cache
+C:\Users\Hakan\Desktop\Examples\ShopProject\Shop_ORM\obj\Debug\Shop_ORM.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Examples\ShopProject\Shop_ORM\obj\Debug\Shop_ORM.dll
+C:\Users\Hakan\Desktop\Examples\ShopProject\Shop_ORM\obj\Debug\Shop_ORM.pdb
+C:\Users\blueh\Desktop\ShopProject\Shop_ORM\obj\Debug\Shop_ORM.csproj.AssemblyReference.cache
